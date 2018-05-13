@@ -1,0 +1,15 @@
+The three primary characteristics of object-oriented programming:
+
+1 Inheritance
+Classes are created in a hierarchy and can be applied to other classes/objects, similar to cascading style sheets. A new class (a derived class) is created from an existing class.
+If you create a class Car with a public field Engine, you can derive from that a class SpeedyCar and it will inherit Engine from Car.
+
+2 Polymorphism - means ‘many forms’
+Having different types of objects and being able to do specific things with those objects; having two methods, each with a different input type that allow you to do the same thing, e.g. int and float on same object. A new class inherits from a base class but the base methods can be over-ridden with virtual functions.
+
+3 Encapsulation
+Only care about what comes out. Sometimes called data hiding. Different parts of the program work together but are encapsulated so that parts can be changed and output affects the whole. So different coders can work on different parts and these parts are separated sort of like HMTL and CSS are, in that case structure/content from design.
+
+4 Abstraction - I know this pillar did not get a section of its own. Create a hypothesis on what you believe this pillar entails. You will learn more about this in Part 2 where you will see how your hypothesis compared to what you learn.
+
+Abstraction allows making relevant information visible; removing parts of the program that are not necessary or suitable for the object.
